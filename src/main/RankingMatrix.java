@@ -3276,6 +3276,13 @@ public class RankingMatrix {
 		return ret;
 
 	}
+	
+	public static SparseMatrix sRCD(SparseMatrix A, SparseVector Q)
+	{
+		SparseMatrix ret = A;
+		
+		return A;
+	}
 	/*
 	 * TODO
 	 * From reduce matr, re-calc mat, mul Q to re-cal mat.
