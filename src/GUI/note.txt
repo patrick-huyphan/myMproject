@@ -1,0 +1,3 @@
+- Draw graph present for doc- term matrix.
+- Draw graph for clustering doc
+- Draw graph for doc similer
